@@ -36,7 +36,8 @@ Shazam is a Python application designed for **Digital Signal Processing (DSP) Ta
 The graphical interface offers a clean and organized layout for streamlined user interaction.
 
 ## GUI Overview
-![image](https://github.com/user-attachments/assets/a8c43770-488b-40e9-83a9-7e7012b623e9)
+![image](https://github.com/user-attachments/assets/56ec2214-1f93-44c8-bb73-070657ca69da)
+
 
 
 #### Descriptions:
